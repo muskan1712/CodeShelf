@@ -1,0 +1,202 @@
+[
+  {
+    "_id": 1,
+    "title": "Mastering Data Structures & Algorithms",
+    "description": "Comprehensive notes and resources to strengthen your DSA fundamentals with practice examples.",
+    "category": "DSA Notes",
+    "trending": true,
+    "coverImage": "dsa-notes.png",
+    "oldPrice": 2499,
+    "newPrice": 1699
+  },
+  {
+    "_id": 2,
+    "title": "DBMS Notes for Developers",
+    "description": "Detailed lecture notes on Database Management Systems with ER diagrams, normalization, and SQL queries.",
+    "category": "DBMS Notes",
+    "trending": true,
+    "coverImage": "dbms-notes.png",
+    "oldPrice": 2099,
+    "newPrice": 1249
+  },
+  {
+    "_id": 3,
+    "title": "Operating Systems Simplified",
+    "description": "Concise notes covering processes, scheduling, memory management, and OS concepts.",
+    "category": "Operating Systems",
+    "trending": false,
+    "coverImage": "os-notes.png",
+    "oldPrice": 1599,
+    "newPrice": 799
+  },
+  {
+    "_id": 4,
+    "title": "Computer Networks Essentials",
+    "description": "In-depth notes on OSI model, TCP/IP, routing, switching, and network security basics.",
+    "category": "Computer Networks",
+    "trending": false,
+    "coverImage": "cn-notes.png",
+    "oldPrice": 1799,
+    "newPrice": 999
+  },
+  {
+    "_id": 5,
+    "title": "AI Fundamentals",
+    "description": "Beginner-friendly notes on Artificial Intelligence, including search algorithms, ML basics, and applications.",
+    "category": "AI Notes",
+    "trending": true,
+    "coverImage": "ai-notes.png",
+    "oldPrice": 2899,
+    "newPrice": 1999
+  },
+  {
+    "_id": 6,
+    "title": "Data Science Crash Course",
+    "description": "Step-by-step notes on Python for Data Science, Pandas, NumPy, and visualization techniques.",
+    "category": "Data Science",
+    "trending": true,
+    "coverImage": "ds-notes.png",
+    "oldPrice": 3299,
+    "newPrice": 2499
+  },
+  {
+    "_id": 7,
+    "title": "Software Engineering Notes",
+    "description": "Structured notes on SDLC models, Agile, UML diagrams, and project management concepts.",
+    "category": "Software Engineering",
+    "trending": false,
+    "coverImage": "se-notes.png",
+    "oldPrice": 2299,
+    "newPrice": 1499
+  },
+  {
+    "_id": 8,
+    "title": "Programming Cheat Sheets Bundle",
+    "description": "Quick-reference cheat sheets for Python, SQL, Git, JavaScript, and more.",
+    "category": "Cheat Sheets",
+    "trending": true,
+    "coverImage": "cheatsheets.png",
+    "oldPrice": 1199,
+    "newPrice": 649
+  },
+  {
+    "_id": 9,
+    "title": "Mini Projects for Beginners",
+    "description": "A collection of hands-on mini projects with source code to practice core programming skills.",
+    "category": "Projects",
+    "trending": true,
+    "coverImage": "projects.png",
+    "oldPrice": 2899,
+    "newPrice": 1999
+  },
+  {
+    "_id": 10,
+    "title": "DSA & CS Quizzes Pack",
+    "description": "Challenge yourself with quizzes on DSA, DBMS, Operating Systems, and Computer Networks.",
+    "category": "Quizzes",
+    "trending": false,
+    "coverImage": "quizzes.png",
+    "oldPrice": 799,
+    "newPrice": 399
+  },
+  {
+    "_id": 11,
+    "title": "Previous Year Question Papers",
+    "description": "A curated set of university and placement exam question papers with solutions.",
+    "category": "Question Papers",
+    "trending": false,
+    "coverImage": "question-papers.png",
+    "oldPrice": 1599,
+    "newPrice": 799
+  },
+  {
+    "_id": 12,
+    "title": "Interview Preparation Kit",
+    "description": "Ace your coding interviews with company-wise questions, HR tips, and resume templates.",
+    "category": "Interview Prep",
+    "trending": true,
+    "coverImage": "interview-prep.png",
+    "oldPrice": 3299,
+    "newPrice": 2499
+  },
+  {
+    "_id": 13,
+    "title": "Full Stack Web Development Guide",
+    "description": "Hands-on notes on HTML, CSS, JavaScript, React, Node.js, and databases for building modern web apps.",
+    "category": "Web Development",
+    "trending": true,
+    "coverImage": "webdev-notes.png",
+    "oldPrice": 3699,
+    "newPrice": 2899
+  },
+  {
+    "_id": 14,
+    "title": "Cybersecurity Basics",
+    "description": "Essential notes on cryptography, ethical hacking, firewalls, and penetration testing.",
+    "category": "Cybersecurity",
+    "trending": true,
+    "coverImage": "cyber-notes.png",
+    "oldPrice": 2599,
+    "newPrice": 1799
+  },
+  {
+    "_id": 15,
+    "title": "Cloud Computing Simplified",
+    "description": "Clear explanations of cloud models, virtualization, AWS, Azure, and Google Cloud basics.",
+    "category": "Cloud Computing",
+    "trending": false,
+    "coverImage": "cloud-notes.png",
+    "oldPrice": 2999,
+    "newPrice": 2199
+  },
+  {
+    "_id": 16,
+    "title": "Coding Roadmaps",
+    "description": "Step-by-step roadmaps for Web Development, Data Science, AI/ML, and Cybersecurity learning paths.",
+    "category": "Roadmaps",
+    "trending": true,
+    "coverImage": "roadmaps.png",
+    "oldPrice": 2099,
+    "newPrice": 1249
+  },
+  {
+    "_id": 17,
+    "title": "Flashcards for Quick Revision",
+    "description": "Digital flashcards covering key concepts in OS, DBMS, CN, and DSA for fast recall.",
+    "category": "Flashcards",
+    "trending": false,
+    "coverImage": "flashcards.png",
+    "oldPrice": 999,
+    "newPrice": 549
+  },
+  {
+    "_id": 18,
+    "title": "Placement Aptitude Pack",
+    "description": "Logical reasoning, quantitative aptitude, and verbal ability practice for campus placements.",
+    "category": "Aptitude",
+    "trending": true,
+    "coverImage": "aptitude.png",
+    "oldPrice": 1599,
+    "newPrice": 949
+  },
+  {
+    "_id": 19,
+    "title": "E-books Collection for Programmers",
+    "description": "Curated e-books on competitive programming, machine learning, and advanced computer science topics.",
+    "category": "E-books",
+    "trending": false,
+    "coverImage": "ebooks.png",
+    "oldPrice": 4199,
+    "newPrice": 2899
+  },
+  {
+    "_id": 20,
+    "title": "Lab Manuals & Practicals",
+    "description": "Step-by-step lab manuals with code for DBMS, CN, OS, and DSA experiments.",
+    "category": "Lab Manuals",
+    "trending": false,
+    "coverImage": "lab-manuals.png",
+    "oldPrice": 2499,
+    "newPrice": 1699
+  }
+]
