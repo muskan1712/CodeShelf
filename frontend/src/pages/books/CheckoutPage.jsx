@@ -23,11 +23,13 @@ const CheckoutPage = () => {
 
     const [isChecked, setIsChecked] = useState(false)
     const onSubmit = async (data) => {
-     
+      console.log("Cart Items:", cartItems);
+console.log("Product IDs:", cartItems.map(item => item._id));
         const newOrder = {
             name: data.name,
             email: currentUser?.email,
             address: {
+                
                 city: data.city,
                 country: data.country,
                 state: data.state,
@@ -35,6 +37,7 @@ const CheckoutPage = () => {
         
             },
             phone: data.phone,
+            
             productIds: cartItems.map(item => item?._id),
             totalPrice: totalPrice,
         }
@@ -53,7 +56,7 @@ const CheckoutPage = () => {
               });
               navigate("/orders")
         } catch (error) {
-            console.error("Error place an order", error);
+            console.error("Error placing an order", error);
             alert("Failed to place an order")
         }
     }
